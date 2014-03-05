@@ -1,7 +1,9 @@
 {
-  "name": "new-tab-to-apps",
-  "version": "1.0.0",
   "manifest_version": 2,
+  "name": "NEW TAB 2 APPS",
+  "version": "1.0.0",
+
+  "default_locale": "ja",
   "description": "Chromeの新規タブを、アプリにするだけの拡張機能です",
   "icons": {
     "16": "ico/16x16.png",
@@ -14,5 +16,6 @@
   },
   "permissions": [
     "tabs"
-  ]
+  ],
+  "short_name": "NEW TAB 2 APPS"
 }
